@@ -1,0 +1,25 @@
+{
+    "name": "iota-rescue",
+    "version": "0.0.1",
+    "description": "This tool is meant to rescue IOTA tokens in a more safer way than the CLI provides. Use it when in need of a key reuse.",
+    "main": "./main.js",
+    "keywords": [
+        "iota",
+        "tangle"
+    ],
+    "author": {
+        "name":"SteppoFF"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "iota.lib.js": "^0.4.7",
+        "keccak": "^1.4.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SteppoFF/iota-rescue"
+    },
+    "bugs": {
+        "url": "https://github.com/SteppoFF/iota-rescue/issues"
+    }
+}
