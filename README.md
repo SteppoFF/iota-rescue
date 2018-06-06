@@ -16,12 +16,14 @@ If in doubt, join the official IOTA Discord and ask for help!
 ### Install:
  1. Install **NodeJS** - [Website](https://nodejs.org/en/)
  2. Check **npm** (comes with NodeJS) and update (if required)  - [Website](https://www.npmjs.com/get-npm)
- 3. Clone via git `git clone https://github.com/SteppoFF/iota-rescue` **or** download repository as zip and extract
- 4. To speed up the calculations, I recommend to install node-gyp but should work without as well - [Link](https://github.com/nodejs/node-gyp)
+ 3. To speed up the calculations, I recommend to install node-gyp. But it should work without as well - [Repository](https://github.com/nodejs/node-gyp)
+ 4. Clone this repository via git: `git clone https://github.com/SteppoFF/iota-rescue` **or** download repository as zip [here](https://github.com/SteppoFF/iota-rescue/archive/master.zip) and extract
  5. Install using `npm install`
 
-### In order to rescue funds:
+### Start:
+ 1. Simply start the app using `node main.js`
 
+### In order to rescue funds:
  1. A full node with remote PoW enabled (default is set to [https://nodes.iota.fm:443](http://iota.fm))
  2. Address where the funds are stuck (with checksum)
  3. Current maximum bundle hash for this address*
