@@ -17,7 +17,8 @@ If in doubt, join the official IOTA Discord and ask for help!
  1. Install **NodeJS** - [Website](https://nodejs.org/en/)
  2. Check **npm** (comes with NodeJS) and update (if required)  - [Website](https://www.npmjs.com/get-npm)
  3. Clone via git `git clone https://github.com/SteppoFF/iota-rescue` **or** download repository as zip and extract
- 4. Install using `npm install`
+ 4. To speed up the calculations, I recommend to install node-gyp but should work without as well - [Link](https://github.com/nodejs/node-gyp)
+ 5. Install using `npm install`
 
 ### In order to rescue funds:
 
