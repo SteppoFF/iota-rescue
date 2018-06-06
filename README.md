@@ -4,7 +4,7 @@
 
 This tool is meant to be used to move stuck funds from an used address, leading to the "key reuse detected" warning in most wallets. It will calculate bundle hashes and choose the one revealing the minimum amount of new key parts to keep the address as secure as possible. It will guide you through the entire procedure and will not issue any transaction without your final OK.
 
-This tool comes without any kind of warranty! You - and only **YOU** - are responsible for your tokens and since your are about to use this tool, something already went wrong.
+This tool comes without any kind of warranty! You - and only **YOU** - are responsible for your tokens and since you are about to use this tool, something already went wrong.
 Key reuses should be avoided at any price and should only be your last resort! There are other ways to move stuck funds!
 Using this tool can lead to lost funds, even though this tool is meant to minimalize the probability.
 
